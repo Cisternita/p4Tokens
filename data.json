@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Water",
       "description": "Essential ingredient for cooking and hydration.",
-      "image": "https://your-ipfs-link.com/water.png",
+      "image": "https://github.com/Cisternita/p4Tokens/blob/main/imagenes/agua.jpg?raw=true",
       "attributes": [
         { "trait_type": "Volume", "value": 1, "display_type": "number" },
         { "trait_type": "Purity", "value": 100, "display_type": "boost_percentage" }
@@ -14,7 +14,7 @@
       "id": 2,
       "name": "Lemon",
       "description": "A fresh lemon for your recipes or drinks.",
-      "image": "https://your-ipfs-link.com/lemon.png",
+      "image": "https://github.com/Cisternita/p4Tokens/blob/main/imagenes/limon.jpg?raw=true",
       "attributes": [
         { "trait_type": "Juiciness", "value": 90, "display_type": "boost_percentage" },
         { "trait_type": "Size", "value": 1, "display_type": "number" }
@@ -24,7 +24,7 @@
       "id": 3,
       "name": "Sugar",
       "description": "Sweetens your lemonade and other recipes.",
-      "image": "https://your-ipfs-link.com/sugar.png",
+      "image": "https://github.com/Cisternita/p4Tokens/blob/main/imagenes/azucar.jpg?raw=true",
       "attributes": [
         { "trait_type": "Sweetness", "value": 100, "display_type": "boost_percentage" },
         { "trait_type": "Weight", "value": 500, "display_type": "number" }
@@ -34,7 +34,7 @@
       "id": 4,
       "name": "Saccharine",
       "description": "A sugar substitute for diabetics.",
-      "image": "https://your-ipfs-link.com/saccharine.png",
+      "image": "https://github.com/Cisternita/p4Tokens/blob/main/imagenes/stevia.jpg?raw=true",
       "attributes": [
         { "trait_type": "Sweetness", "value": 200, "display_type": "boost_percentage" },
         { "trait_type": "Weight", "value": 50, "display_type": "number" }
@@ -44,7 +44,7 @@
       "id": 5,
       "name": "Pasta",
       "description": "A versatile ingredient for various dishes.",
-      "image": "https://your-ipfs-link.com/pasta.png",
+      "image": "https://github.com/Cisternita/p4Tokens/blob/main/imagenes/pasta.jpg?raw=true",
       "attributes": [
         { "trait_type": "Weight", "value": 1000, "display_type": "number" },
         { "trait_type": "Freshness", "value": 80, "display_type": "boost_percentage" }
@@ -54,7 +54,7 @@
       "id": 6,
       "name": "Tomato",
       "description": "A fresh tomato for your pasta sauces.",
-      "image": "https://your-ipfs-link.com/tomato.png",
+      "image": "https://github.com/Cisternita/p4Tokens/blob/main/imagenes/salsatomate.jpg?raw=true",
       "attributes": [
         { "trait_type": "Freshness", "value": 90, "display_type": "boost_percentage" },
         { "trait_type": "Weight", "value": 200, "display_type": "number" }
